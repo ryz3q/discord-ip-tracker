@@ -1,0 +1,7 @@
+discord
+asyncio
+requests
+datetime
+os
+discord.ext
+pyrsistent
