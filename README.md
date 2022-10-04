@@ -13,3 +13,5 @@
 #1 clear NUMBER (clear messages form chat)
 
 #2 ip VICTIM'S IP (track the ip)
+
+# ⚠️EDUCATIONAL PURPOSES ONLY⚠️
